@@ -1809,7 +1809,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jn1zYMYGHN1X5KfKO0px-1245" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=east;fillColor=#f9f7ed;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="jn1zYMYGHN1X5KfKO0px-1245" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=east;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-398" y="2182.9799999999996" width="110" height="109.94" as="geometry" />
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-1247" value="GNN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=east;" vertex="1" parent="1">
