@@ -2036,8 +2036,8 @@
         <mxCell id="jn1zYMYGHN1X5KfKO0px-1334" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="127" y="2337.56" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="jn1zYMYGHN1X5KfKO0px-1338" value="&lt;b&gt;&lt;font color=&quot;#ee2020&quot; style=&quot;font-size: 23px;&quot;&gt;GCN工作原理&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry y="1970" width="170" height="40" as="geometry" />
+        <mxCell id="jn1zYMYGHN1X5KfKO0px-1338" value="&lt;font color=&quot;#ee2020&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;模型推理流程&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-21" y="2080" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
