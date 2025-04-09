@@ -1778,7 +1778,7 @@
         <mxCell id="jn1zYMYGHN1X5KfKO0px-1180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jn1zYMYGHN1X5KfKO0px-1182" target="jn1zYMYGHN1X5KfKO0px-1185">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jn1zYMYGHN1X5KfKO0px-1181" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;随机采样&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jn1zYMYGHN1X5KfKO0px-1180">
+        <mxCell id="jn1zYMYGHN1X5KfKO0px-1181" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;随机采样&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jn1zYMYGHN1X5KfKO0px-1180">
           <mxGeometry x="-0.076" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
