@@ -1897,8 +1897,13 @@
         <mxCell id="jn1zYMYGHN1X5KfKO0px-1220" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;i&gt;Y&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-264.75" y="2722.11" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jn1zYMYGHN1X5KfKO0px-1222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=0.843;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jn1zYMYGHN1X5KfKO0px-1185" target="jn1zYMYGHN1X5KfKO0px-887">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jn1zYMYGHN1X5KfKO0px-1222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.306;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jn1zYMYGHN1X5KfKO0px-1185" target="jn1zYMYGHN1X5KfKO0px-887">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-116" y="2294" />
+              <mxPoint x="-116" y="2295" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
