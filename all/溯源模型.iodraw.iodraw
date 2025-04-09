@@ -1969,6 +1969,10 @@
         <mxCell id="jn1zYMYGHN1X5KfKO0px-1268" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jn1zYMYGHN1X5KfKO0px-1245">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-130" y="2280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-140" y="2172" />
+              <mxPoint x="-140" y="2280" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-1245" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=east;fillColor=#f9f7ed;strokeColor=#FFFFFF;" vertex="1" parent="1">
