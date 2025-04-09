@@ -1074,7 +1074,7 @@
           <mxGeometry x="293.25" y="1694.31" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-790" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="233.75" y="1741.81" width="270.5" height="100" as="geometry" />
+          <mxGeometry x="233.75" y="1741.81" width="256.25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-791" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="jn1zYMYGHN1X5KfKO0px-794" target="jn1zYMYGHN1X5KfKO0px-796">
           <mxGeometry relative="1" as="geometry" />
@@ -1170,7 +1170,7 @@
           <mxGeometry x="361.25" y="1792.56" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-837" value="&lt;b&gt;真实不同时刻感染状态&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1812.56" width="140" height="30" as="geometry" />
+          <mxGeometry x="296.5" y="1811.81" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-839" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="523.75" y="1590" width="20" height="341.25" as="geometry" />
