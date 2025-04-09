@@ -1389,9 +1389,6 @@
         <mxCell id="jn1zYMYGHN1X5KfKO0px-915" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;未感染&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-411" y="2236.25" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jn1zYMYGHN1X5KfKO0px-916" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;1：源点&lt;/font&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;0：非源点&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-396" y="2255" width="60" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-917" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;输入源点分布+感染拓扑&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-401" y="2295" width="140" height="30" as="geometry" />
         </mxCell>
