@@ -1898,7 +1898,7 @@
           <mxGeometry x="-264.75" y="2722.11" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-1224" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="-370.5" y="2128.75" width="140.5" height="106.25" as="geometry" />
+          <mxGeometry x="-360" y="2140" width="120" height="95" as="geometry" />
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-1225" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="jn1zYMYGHN1X5KfKO0px-1228" target="jn1zYMYGHN1X5KfKO0px-1230">
           <mxGeometry relative="1" as="geometry" />
