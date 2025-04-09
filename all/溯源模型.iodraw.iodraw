@@ -1289,7 +1289,7 @@
           <mxGeometry x="441.25" y="1792.56" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-880" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-245" y="1980" width="890" height="310" as="geometry" />
+          <mxGeometry x="-280" y="1980.75" width="920" height="519.25" as="geometry" />
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-881" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jn1zYMYGHN1X5KfKO0px-882" target="jn1zYMYGHN1X5KfKO0px-884">
           <mxGeometry relative="1" as="geometry" />
@@ -1302,11 +1302,6 @@
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-884" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="185" y="2015" width="170" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="jn1zYMYGHN1X5KfKO0px-885" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="jn1zYMYGHN1X5KfKO0px-887">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="38.75" y="2108.817567567567" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-887" value="Decoder" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="65" y="2080" width="72.5" height="57.5" as="geometry" />
