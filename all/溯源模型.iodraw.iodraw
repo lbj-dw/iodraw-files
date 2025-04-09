@@ -1963,13 +1963,8 @@
         <mxCell id="jn1zYMYGHN1X5KfKO0px-1245" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;direction=east;" vertex="1" parent="1">
           <mxGeometry x="-221.5" y="2100.06" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="jn1zYMYGHN1X5KfKO0px-1246" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="jn1zYMYGHN1X5KfKO0px-1249">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-161.38" y="2178.815483870968" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-1247" value="GNN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="-203.12" y="2135.9" width="33.12" height="74.1" as="geometry" />
+          <mxGeometry x="-173.12" y="2131.87" width="33.12" height="74.1" as="geometry" />
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-1248" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;条件变量embedding&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-209.87" y="2100.06" width="120" height="30" as="geometry" />
