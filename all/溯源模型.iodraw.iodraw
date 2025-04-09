@@ -1573,11 +1573,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jn1zYMYGHN1X5KfKO0px-974" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;基于真实的不同时刻感染状态优化源点采样&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jn1zYMYGHN1X5KfKO0px-973">
-          <mxGeometry x="-0.0409" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-975" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="2015" width="170" height="170" as="geometry" />
         </mxCell>
