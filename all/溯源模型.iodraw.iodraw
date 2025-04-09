@@ -1295,7 +1295,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-882" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-452.5" y="2155.97" width="400" height="254.03" as="geometry" />
+          <mxGeometry x="-452.5" y="2155.97" width="402.5" height="254.03" as="geometry" />
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-887" value="Decoder" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-152.5" y="2307.22" width="86.5" height="77.5" as="geometry" />
