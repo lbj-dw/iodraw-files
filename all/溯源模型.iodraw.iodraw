@@ -975,7 +975,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-742" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="227.5" y="1594.31" width="170" height="170" as="geometry" />
+          <mxGeometry x="227.5" y="1594.31" width="192.5" height="170" as="geometry" />
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-743" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="jn1zYMYGHN1X5KfKO0px-746" target="jn1zYMYGHN1X5KfKO0px-748">
           <mxGeometry relative="1" as="geometry" />
@@ -1263,10 +1263,10 @@
           <mxGeometry x="244.5" y="1915" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-839" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1598.75" width="20" height="341.25" as="geometry" />
+          <mxGeometry x="523.75" y="1590" width="20" height="341.25" as="geometry" />
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-840" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;loss&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="1754.38" width="60" height="30" as="geometry" />
+          <mxGeometry x="538.75" y="1745.63" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-843" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.468;entryY=-0.11;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jn1zYMYGHN1X5KfKO0px-840" target="jn1zYMYGHN1X5KfKO0px-636">
           <mxGeometry relative="1" as="geometry">
