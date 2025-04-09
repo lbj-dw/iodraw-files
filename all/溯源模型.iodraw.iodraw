@@ -1070,30 +1070,17 @@
         <mxCell id="jn1zYMYGHN1X5KfKO0px-773" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="355" y="1645.06" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="jn1zYMYGHN1X5KfKO0px-775" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="jn1zYMYGHN1X5KfKO0px-782" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="299.80769230760234" y="1677.2715384617536" as="sourcePoint" />
-            <mxPoint x="294.2948953965447" y="1690.3932719689838" as="targetPoint" />
+            <mxPoint x="307.5" y="1715.06" as="sourcePoint" />
+            <mxPoint x="325" y="1715.06" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jn1zYMYGHN1X5KfKO0px-780" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="jn1zYMYGHN1X5KfKO0px-785">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="294.56901472150594" y="1699.6118323873138" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jn1zYMYGHN1X5KfKO0px-782" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="jn1zYMYGHN1X5KfKO0px-785" target="jn1zYMYGHN1X5KfKO0px-788">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jn1zYMYGHN1X5KfKO0px-785" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="1710.06" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="jn1zYMYGHN1X5KfKO0px-786" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="jn1zYMYGHN1X5KfKO0px-788">
+        <mxCell id="jn1zYMYGHN1X5KfKO0px-786" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="337.93098527849406" y="1699.6118323873125" as="sourcePoint" />
+            <mxPoint x="332.06901472150594" y="1710.508167612686" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="jn1zYMYGHN1X5KfKO0px-788" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="325" y="1710.06" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-789" value="&lt;b&gt;输出不同时刻感染状态&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="1729.31" width="140" height="30" as="geometry" />
