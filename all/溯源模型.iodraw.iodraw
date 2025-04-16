@@ -2508,9 +2508,9 @@
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-1598" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jn1zYMYGHN1X5KfKO0px-1597">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="3615" as="targetPoint" />
+            <mxPoint x="520" y="3620" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="500" y="3610" />
+              <mxPoint x="500" y="3620" />
             </Array>
           </mxGeometry>
         </mxCell>
