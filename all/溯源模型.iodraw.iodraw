@@ -2506,8 +2506,8 @@
         <mxCell id="jn1zYMYGHN1X5KfKO0px-1594" value="" style="line;strokeWidth=5;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="318.25" y="3631.62" width="28.5" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="jn1zYMYGHN1X5KfKO0px-1597" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="395" y="3608" width="50" height="30" as="geometry" />
+        <mxCell id="jn1zYMYGHN1X5KfKO0px-1597" value="...." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3608" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
