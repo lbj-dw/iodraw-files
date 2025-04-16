@@ -2268,7 +2268,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jn1zYMYGHN1X5KfKO0px-1509" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=1.01;arrowHead=6.85;dx2=3.21;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-165" y="3506.75" width="10" height="24" as="geometry" />
+          <mxGeometry x="-152.5" y="3507" width="5" height="13.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
