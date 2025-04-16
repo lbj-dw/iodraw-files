@@ -2267,7 +2267,7 @@
             <mxPoint x="-140" y="3520.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jn1zYMYGHN1X5KfKO0px-1507" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.045;entryY=0.283;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jn1zYMYGHN1X5KfKO0px-1454" target="jn1zYMYGHN1X5KfKO0px-1454">
+        <mxCell id="jn1zYMYGHN1X5KfKO0px-1507" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.045;entryY=0.283;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jn1zYMYGHN1X5KfKO0px-1454" target="jn1zYMYGHN1X5KfKO0px-1454">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
