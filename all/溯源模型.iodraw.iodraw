@@ -5051,7 +5051,7 @@
           <mxGeometry x="700.75" y="7155" width="95" height="95" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-795" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;潜在空间&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="674.5" y="7127.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="677" y="7122.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-796" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;z&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d0cee2;strokeColor=#56517e;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="867" y="7162.5" width="45" height="45" as="geometry" />
