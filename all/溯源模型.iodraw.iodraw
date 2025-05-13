@@ -3961,7 +3961,7 @@
           <mxGeometry x="249.38" y="5900" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-453" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="387.5" y="5804.31" width="192.5" height="170" as="geometry" />
+          <mxGeometry x="370" y="5804.31" width="210" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-454" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;GNN模拟信息扩散&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="375.5" y="5799.3099999999995" width="200" height="40" as="geometry" />
@@ -4130,7 +4130,7 @@
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-509" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" target="HFsKQEHPebk8gEogEUDP-510">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="557.5" y="5889.3099999999995" as="sourcePoint" />
+            <mxPoint x="580" y="5889" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-510" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=22;" vertex="1" parent="1">
