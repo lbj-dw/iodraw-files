@@ -5173,10 +5173,10 @@
           <mxGeometry x="450" y="6899.87" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-835" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;未感染&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="445" y="6913.62" width="60" height="30" as="geometry" />
+          <mxGeometry x="445" y="6917.11" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-836" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;输入感染拓扑&amp;nbsp;&lt;i style=&quot;&quot;&gt;I / G&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="460" y="6972.37" width="140" height="30" as="geometry" />
+          <mxGeometry x="459.5" y="6976.12" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-837" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="380" y="6880" width="70" height="140" as="geometry" />
