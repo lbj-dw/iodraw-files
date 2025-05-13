@@ -4351,8 +4351,8 @@
             <mxPoint x="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HFsKQEHPebk8gEogEUDP-580" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;&lt;font color=&quot;#f03d3d&quot; style=&quot;font-size: 22px;&quot;&gt;GCN模拟消息扩散&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="188.75" y="6030" width="200" height="40" as="geometry" />
+        <mxCell id="HFsKQEHPebk8gEogEUDP-580" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#f03d3d&quot; style=&quot;font-size: 26px;&quot;&gt;GCN模拟消息扩散&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="168.75" y="6030" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-581" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=22;" edge="1" parent="1" source="HFsKQEHPebk8gEogEUDP-584" target="HFsKQEHPebk8gEogEUDP-586">
           <mxGeometry relative="1" as="geometry" />
