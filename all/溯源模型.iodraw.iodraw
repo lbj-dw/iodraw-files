@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="sDT2-V9b8BA7cFCF5n4L">
-    <mxGraphModel dx="1811" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3252,7 +3252,7 @@
           <mxGeometry x="176" y="5366.86" width="86.5" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-214" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;源点采样CVAE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;rotation=0;spacingLeft=0;spacing=1;" vertex="1" parent="1">
-          <mxGeometry x="3.75" y="5211.59" width="110" height="30" as="geometry" />
+          <mxGeometry x="2.5" y="5189.31" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-215" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=13;rotation=0;spacingLeft=0;spacing=1;" vertex="1" parent="1">
           <mxGeometry x="667" y="5291.8099999999995" width="262.5" height="105.69" as="geometry" />
