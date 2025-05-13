@@ -5268,7 +5268,7 @@
           <mxGeometry x="250" y="7830" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-866" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="40" y="7820" width="160" height="120" as="geometry" />
+          <mxGeometry x="40" y="7820" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-867" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=13;" edge="1" parent="1" source="HFsKQEHPebk8gEogEUDP-870" target="HFsKQEHPebk8gEogEUDP-872">
           <mxGeometry relative="1" as="geometry" />
@@ -5340,16 +5340,16 @@
           <mxGeometry x="167.5" y="7875" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-889" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="87.5" y="7850" width="22.5" height="10" as="geometry" />
+          <mxGeometry x="87.5" y="7838.75" width="22.5" height="10" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-890" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="87.5" y="7865" width="22.5" height="10" as="geometry" />
+          <mxGeometry x="87.5" y="7853.75" width="22.5" height="10" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-891" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;感染&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="45" y="7840" width="50" height="30" as="geometry" />
+          <mxGeometry x="45" y="7828.75" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-892" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;未感染&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="40" y="7853.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="40" y="7842.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-893" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;1：源点&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;0：非源点&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="60" y="7872.5" width="80" height="40" as="geometry" />
