@@ -5352,7 +5352,7 @@
           <mxGeometry x="40" y="7842.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-893" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;1：源点&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;0：非源点&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="60" y="7872.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="50" y="7871.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-894" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;输入源点分布+感染拓扑&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="45" y="7912.5" width="160" height="30" as="geometry" />
