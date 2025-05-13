@@ -5346,16 +5346,16 @@
           <mxGeometry x="87.5" y="7853.75" width="22.5" height="10" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-891" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;感染&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="45" y="7828.75" width="50" height="30" as="geometry" />
+          <mxGeometry x="37.5" y="7828.75" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-892" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;未感染&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="40" y="7842.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="34" y="7845" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-893" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;1：源点&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;0：非源点&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="50" y="7871.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-894" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;输入源点分布+感染拓扑&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="45" y="7912.5" width="160" height="30" as="geometry" />
+          <mxGeometry x="40.62" y="7920" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFsKQEHPebk8gEogEUDP-895" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;GNN模拟信息扩散&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="458" y="7805" width="160" height="30" as="geometry" />
