@@ -2602,6 +2602,9 @@
         <mxCell id="Aqr2xAiJ_hWR5kdoPv_n-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-324" y="4040" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Aqr2xAiJ_hWR5kdoPv_n-4" value="样本1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-545" y="4048" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
