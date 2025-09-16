@@ -2605,6 +2605,9 @@
         <mxCell id="Aqr2xAiJ_hWR5kdoPv_n-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;样本1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-565.25" y="4038" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Aqr2xAiJ_hWR5kdoPv_n-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="4220" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
