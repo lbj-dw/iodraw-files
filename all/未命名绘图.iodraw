@@ -2596,7 +2596,7 @@
         <mxCell id="Aqr2xAiJ_hWR5kdoPv_n-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-440.75" y="4040" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Aqr2xAiJ_hWR5kdoPv_n-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Aqr2xAiJ_hWR5kdoPv_n-2" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-325.68" y="4040" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
