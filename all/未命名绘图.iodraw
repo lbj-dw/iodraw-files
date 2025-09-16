@@ -2647,8 +2647,11 @@
         <mxCell id="Aqr2xAiJ_hWR5kdoPv_n-22" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;簇2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-167" y="4240" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Aqr2xAiJ_hWR5kdoPv_n-23" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;簇0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="4270" width="60" height="40" as="geometry" />
+        <mxCell id="Aqr2xAiJ_hWR5kdoPv_n-23" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;簇3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="84" y="4246" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aqr2xAiJ_hWR5kdoPv_n-24" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="4110" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
