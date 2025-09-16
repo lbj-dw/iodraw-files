@@ -2639,7 +2639,10 @@
           <mxGeometry x="-177.5" y="4150" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Aqr2xAiJ_hWR5kdoPv_n-20" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;簇0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="4113" width="60" height="40" as="geometry" />
+          <mxGeometry x="-170" y="4032" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aqr2xAiJ_hWR5kdoPv_n-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;簇1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="4040" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
