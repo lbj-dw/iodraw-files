@@ -3018,11 +3018,11 @@
         <mxCell id="Aqr2xAiJ_hWR5kdoPv_n-163" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-670" y="6360" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Aqr2xAiJ_hWR5kdoPv_n-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aqr2xAiJ_hWR5kdoPv_n-166" target="Aqr2xAiJ_hWR5kdoPv_n-161">
+        <mxCell id="Aqr2xAiJ_hWR5kdoPv_n-168" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Aqr2xAiJ_hWR5kdoPv_n-166" target="Aqr2xAiJ_hWR5kdoPv_n-161">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Aqr2xAiJ_hWR5kdoPv_n-166" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="6490" width="40" height="40" as="geometry" />
+          <mxGeometry x="-690" y="6500" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
